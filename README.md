@@ -1,3 +1,3 @@
 # TempoLM
 
-The code will be coming soon!
+The code and dataset will be available soon!
